@@ -13,7 +13,7 @@ Enter X Range (  default = (-7,7)  leave empty for default values) with parenthe
 Enter Y Range (  default = (-7,7)  leave empty for default values) with parenthesis and with comma(,) separated: -4,4 <br>
  <br>
 Enter initial point (x,y) with parenthesis and with comma(,) separated: 0,0 <br>
-# ------------------------------------------------------------------------<br>
+# ---------------------------------------------------------------<br>
 The Result will be 4 figures.
 <li>3D plot with optimizers steps to reach the minimum.
 <li>f or x and y vs iterations.
