@@ -17,5 +17,5 @@ The Result will be 4 figures.
 <li>3D plot with optimizers steps to reach the minimum.
 <li>f or x and y vs iterations.
 <li>g1 vs iterations.
-<li<g2 vs iterations.
+<li>g2 vs iterations.
   
